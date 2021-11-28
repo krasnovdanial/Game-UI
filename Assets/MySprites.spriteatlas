@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MySprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a9698cb15cb1e9740a2407ffbbd1a918, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cbaf591052522484a8598febf5a84bd1, type: 3}
+  - {fileID: 21300000, guid: 17e3a5406287fd042b9e3916168576b3, type: 3}
+  - {fileID: 21300000, guid: 4847c1e1b36391f41bd3cdd2ce4e69aa, type: 3}
+  - {fileID: 21300000, guid: 142ea2b2a3baa554b8c6a3b9f9cdbe31, type: 3}
+  - {fileID: 21300000, guid: 3df6263395f81d74c8846e85b2d5bcd4, type: 3}
+  - {fileID: 21300000, guid: 197628635478bae49961fcebaaae86ee, type: 3}
+  - {fileID: 21300000, guid: 943121b3d869ad248a840fcbce9f520b, type: 3}
+  - {fileID: 21300000, guid: 45ebb81574182e44fb1b6665b9ac1403, type: 3}
+  - {fileID: 21300000, guid: dc26bdb5d0ecb054dbf3c3b810c35cb2, type: 3}
+  - {fileID: 21300000, guid: 4985737748059c34da888aa46b0f896b, type: 3}
+  - {fileID: 21300000, guid: 824ebf971c13e6c4ebc285194ea50839, type: 3}
+  - {fileID: 21300000, guid: 8dca31d99f977c047b92889fcb2aa6de, type: 3}
+  - {fileID: 21300000, guid: 98ffa60a7c7f1984c9018b292d5493bd, type: 3}
+  - {fileID: 21300000, guid: 8b8a475b2dfa9fb4ca1ea71188f07681, type: 3}
+  - {fileID: 21300000, guid: d6e09afbcb36dac46af28a471686d198, type: 3}
+  - {fileID: 21300000, guid: 238d3d1cd7f649b46b2253035d386a5e, type: 3}
+  - {fileID: 21300000, guid: 93b169bc3233e9545a53ec2444d270e1, type: 3}
+  - {fileID: 21300000, guid: a71cb66f43316d840a4267f6c48dae6e, type: 3}
+  - {fileID: 21300000, guid: 51c55ccfbc7111745a0402f0a1756862, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_brain_02
+  - btn_r_magenta_click
+  - icon_brain_01
+  - btn_r_magenta_default 1
+  - icon_paz
+  - icon_brain_03
+  - bio
+  - btn_r_magenta_default
+  - counter
+  - btn_brain 1
+  - scr_tile
+  - bio 1
+  - btn_crystal 1
+  - bio 2
+  - btn_crystal
+  - stars
+  - btn_brain
+  - icon_crystal_01
+  - btn_r_magenta_click 1
+  m_RenderDataMap: {}
+  m_Tag: MySprites
+  m_IsVariant: 0
